@@ -60,7 +60,7 @@ Mitra aims to integrate AI agents with your documents, connecting them with apps
     - [ ] Anthropic
     - [ ] Google Gemini
     - [ ] Mistral
-  - [ ]📍 Local Providers
+  - [ ] 📍 Local Providers
     - [ ] 🦙 Ollama
 * 🕵🏻 Agents
   - [ ] Formation
