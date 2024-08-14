@@ -1,16 +1,14 @@
 
 <h1 align="center"><img alt="Banner" src="https://raw.githubusercontent.com/Mogoj-AI/mitra/main/banner.png"></h1>
-<div align="center"><img src="https://raw.githubusercontent.com/Mogoj-AI/mitra/main/mitra.svg" alt="Markdownify" width="200"></div>
-<h1 align="center">Mitra</h1>
+<img src="https://raw.githubusercontent.com/Mogoj-AI/mitra/main/mitra.svg" alt="Markdownify" width="200">
 
-<h4 align="center">AI Agents with Docs, Apps and Tasks</h4>
+# Mitra
+#### Orchestrate complex AI Agents for real-world tasks
 
-<p align="center">
-  
-  <a href="https://discord.gg/M5S6jBcaDB">
-    <img alt="Discord" src="https://img.shields.io/discord/1237231461002645514">
-  </a>
-</p>
+
+<a href="https://discord.gg/M5S6jBcaDB">
+  <img alt="Discord" src="https://img.shields.io/discord/1237231461002645514">
+</a>
 
 <p align="center">
   <a href="#intro">Intro</a> •
